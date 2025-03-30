@@ -1,0 +1,13 @@
+- school: School Name
+  program: Degree Name
+  graduation_date: Graduation Date
+  description: some description about degree
+  points:
+    - Some bullet point
+    - Some bullet point
+
+- school: "University of Some Place"
+  program: B.S.E. in Some Major
+  graduation_date: Jan. 1990
+  description:
+  points:

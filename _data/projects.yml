@@ -1,0 +1,33 @@
+- title: Sample Project
+  thumbnail: /assets/images/sample-images/image-alignment-580x300.jpg
+  short_description:
+  bullets:
+    - Bullet point 1.
+    - Bullet point 2.
+  skills: ["Tag 1", "Tag 2", "Tag 3", "Tag 4"]
+  id: sample-project
+  link: /projects/sample-project/
+  github: https://github.com/JunhwanK/portfolio-template/
+
+- title: Project Name 1
+  thumbnail: /assets/images/sample-images/image-alignment-580x300.jpg
+  short_description: A short description on project 1.
+  bullets:
+    - Bullet point 1.
+    - Bullet point 2.
+    - Bullet point 3.
+  skills: ["Skill 1", "Skill 2", "Skill 3", "Skill 4"]
+  id: project-name-1
+  link: /projects/project-name-1/
+  github:
+
+- title: Demo
+  thumbnail:
+  short_description: A short description on demo.
+  bullets:
+    - Bullet point 1.
+    - Bullet point 2.
+  skills: ["Tag 1", "Tag 2", "Tag 3", "Tag 4"]
+  id: demo
+  link: /projects/demo/
+  github:
